@@ -1,2 +1,19 @@
-# Project-Planner
-This is a simple Project Planner in VUE JS 3. We can add, edit and Delete our plans . Once completed our plan is indicated in GREEN color , if it is incomplete it RED color appears.
+# project-planner
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
